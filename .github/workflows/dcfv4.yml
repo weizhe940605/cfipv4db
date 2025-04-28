@@ -41,8 +41,8 @@ jobs:
 
     - name: Configure Git
       run: |
-        git config --global user.name "yuanxiawan"
-        git config --global user.email "yuanxiawan@gmail.com"
+        git config --global user.name "weizhe940605"
+        git config --global user.email "weizhe978@gmail.com"
 
     - name: Commit and push generated files
       run: |
