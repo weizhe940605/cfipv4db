@@ -112,6 +112,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 104.16.35.14#HKG
 104.17.165.223#HKG1
 104.17.20.171#HKG2
@@ -1842,4 +1843,21 @@
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+104.17.150.3#HKG
+104.19.156.93#HKG1
+104.17.219.105#HKG2
+104.19.151.127#HKG3
+104.17.150.182#HKG4
+104.16.148.236#LAX
+162.159.5.215#LAX1
+104.17.219.105#LAX2
+162.159.5.42#LAX3
+162.159.5.253#LAX4
+172.64.41.159#SIN
+172.64.41.240#SIN1
+162.159.1.228#SIN2
+162.159.11.19#SIN3
+162.159.5.42#SIN4
 >>>>>>> Stashed changes
